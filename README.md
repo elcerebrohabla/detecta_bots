@@ -1,6 +1,6 @@
 # detecta_bots
 
-A través de esta aplicación, podrás detectar bots en Twitter de acuerdo con las temáticas que elijas. Es útil para detectar campañas de bots de agentes políticos o priados.
+A través de esta aplicación, podrás detectar bots en Twitter de acuerdo con las temáticas que elijas. Es útil para detectar campañas de bots de agentes políticos o privados.
 
 Lo que este código hace es aplicar varios filtros para filtrar las cuentas que tienen más posibilidad de ser un bot y posteriormente utilizar el paquete TweetBotOrNot (https://github.com/mkearney/tweetbotornot). 
 
